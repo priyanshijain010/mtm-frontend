@@ -1,0 +1,14 @@
+{
+  "name": "keep-calm-and-travel-on-master",
+  "version": "1.0.0",
+  "description": "#### Contributors: [Jay Seo](https://github.com/sjs5953), [Tausif Khan ](https://github.com/tausvels), [Porson Lee](https://github.com/oddporson)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
